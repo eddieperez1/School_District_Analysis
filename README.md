@@ -15,7 +15,7 @@ The change affected the district summary by decreasing the number of student by 
 
 How is the school summary affected?
 ### Deliverable 2 School Summary
-![Deliverable 2 School Summary](/Screenshots/screenshot%20of%20deliverable%202%20school%20summary.png)
+![Deliverable 2 School Summary](/Screenshots/screenshot%20of%20deliverable%202%20school%20summary%202%20correct.png)
 ### Module School Summary
 ![Module School Summary](/Screenshots/screenshot%20of%20module%20school%20summary.png)
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
