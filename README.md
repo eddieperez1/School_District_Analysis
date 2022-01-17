@@ -6,7 +6,7 @@ Maria, a lead analysist for a local school district, is analyzing the city schoo
 
 ## Results
 
-How is the district summary affected?
+The change affected the district summary by decreasing the number of student by 461. This change decreased the passing % of math, passing % of reading and overall passing % by 0.2%, 0.3%, 0.1% respectively.
 
 ### Deliverable 2 District Summary
 ![Deliverable 2 district summary](/Screenshots/screenshot%20of%20deliverable%202%20district%20summary.png)
