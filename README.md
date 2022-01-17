@@ -13,12 +13,15 @@ The change affected the district summary by decreasing the number of student by 
 ### Module District Summary
 ![Module district summary](Screenshots/screenshot%20of%20module%20district%20summary.png)
 
-How is the school summary affected?
+The change affected the school summary by decreasing the passing math %, passing reading %, and overall passing % by 0.1%, 0.3%, 0.3% respectively.
+
 ### Deliverable 2 School Summary
 ![Deliverable 2 School Summary](/Screenshots/screenshot%20of%20deliverable%202%20school%20summary%202%20correct.png)
 ### Module School Summary
 ![Module School Summary](/Screenshots/screenshot%20of%20module%20school%20summary.png)
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+Replacing the ninth graders’ math and reading scores has no effect on Thomas High School’s performance relative to the other schools. Top 5 and bottom 5 schools are still the same as previous analysis.
+
 ### Deliverable 2 Top 5 Schools
 ![Deliverable 2 Top 5 Schools](/Screenshots/screenshot%20of%20deliverable%202%20top%205%20schools.png)
 ### Module Top 5 Schools
@@ -30,15 +33,18 @@ How does replacing the ninth graders’ math and reading scores affect Thomas Hi
 
 How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
+
 ### Deliverable 2 Math Scores by Grade
-![Deliverable 2 Math Scores by Grade](/Screenshots/screenshot%20of%20deliverable%202%20math%20scores%20by%20grade.png)
+![Deliverable 2 Math Scores by Grade](/Screenshots/screenshot%20of%20deliverable%202%20math%20scores%20by%20grade%20correct.png)
 ### Module Math Scores by Grade
 ![Module Math Scores by Grade](/Screenshots/screenshot%20of%20module%20math%20scores%20by%20grade.png)
 ### Deliverable 2 Reading Scores by Grade
-![Deliverable 2 Reading Scores by Grade](/Screenshots/screenshot%20of%20deliverable%202%20reading%20scores%20by%20grade.png)
+![Deliverable 2 Reading Scores by Grade](/Screenshots/screenshot%20of%20deliverable%202%20reading%20scores%20by%20grade%20correct.png)
 ### Module Reading Scores by Grade
 ![Module Reading Scores by Grade](/Screenshots/screenshot%20of%20module%20reading%20scores%20by%20grade.png)
+
 - Scores by school spending
+
 ### Deliverable 2 Scores by School Spending
 ![Deliverable 2 Scores by School Spending](/Screenshots/screenshot%20of%20deliverable%202%20spending%20summary.png)
 ### Module Scores by School Spending
