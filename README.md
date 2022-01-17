@@ -42,22 +42,26 @@ Replacing the ninth-grade scores does not affect the scores except that there is
 ### Module Reading Scores by Grade
 ![Module Reading Scores by Grade](/Screenshots/screenshot%20of%20module%20reading%20scores%20by%20grade.png)
 
-- Scores by school spending
+Replacing the ninth-grade scores does not affect the school spending summary significantly because it is a large sample.
 
 ### Deliverable 2 Scores by School Spending
 ![Deliverable 2 Scores by School Spending](/Screenshots/screenshot%20of%20deliverable%202%20spending%20summary.png)
 ### Module Scores by School Spending
 ![Module Scores by School Spending](/Screenshots/screenshot%20of%20module%20spending%20summary.png)
-- Scores by school size
+
+Replacing the ninth-grade scores does not affect the school size summary significantly because it is a large sample. 
+
 ### Deliverable 2 Scores by School Size
 ![Deliverable 2 Scores by School Size](/Screenshots/screenshot%20of%20deliverable%202%20school%20size%20summary.png)
 ### Module Scores by School Size
 ![Module Scores by School Size](/Screenshots/screenshot%20of%20module%20school%20size%20summary.png)
-- Scores by school type
+
+Replacing the ninth-grade scores does not affect the school type summary significantly because it is a large sample. 
+
 ### Deliverable 2 Scores by School Type
 ![Deliverable 2 Scores by School Type](/Screenshots/screenshot%20of%20deliverable%202%20school%20type%20summary.png)
 ### Module Scores by School Type
-  ![Module Scores by School Type](/Screenshots/screenshot%20of%20module%20school%20type%20summary.png)
+![Module Scores by School Type](/Screenshots/screenshot%20of%20module%20school%20type%20summary.png)
 
 
 ## Summary
