@@ -31,8 +31,7 @@ Replacing the ninth graders’ math and reading scores has no effect on Thomas H
 ### Module Bottom 5 Schools
 ![Module Bottom 5 Schools](/Screenshots/screenshot%20of%20module%20bottom%205%20schools.png)
 
-How does replacing the ninth-grade scores affect the following:
-- Math and reading scores by grade
+Replacing the ninth-grade scores does not affect the scores except that there is no mean score to calculate  for ninith graders.
 
 ### Deliverable 2 Math Scores by Grade
 ![Deliverable 2 Math Scores by Grade](/Screenshots/screenshot%20of%20deliverable%202%20math%20scores%20by%20grade%20correct.png)
